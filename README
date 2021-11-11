@@ -1,0 +1,5 @@
+Limbo-Match-Paren
+
+This is a command-line program I wrote for Common Lisp programmers.  This tool is used to balance parantheses by taking an expression in standard input and printing it out as an expression with balanced parantheseses as standard output.  Think of it as a ParEdit for the Acme text editor.
+
+To use in Acme, select the text and then pipe it to the mp command.  Commands can be added to the end of the blue line, and commands can be piped-to by putting the '|' character in front of it.
